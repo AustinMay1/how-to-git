@@ -95,7 +95,7 @@ make some changes! check in at the bottom of this document [here.](#check-in)
 
 ### Step 6:
 
-back in GitHub Desktop, on the left hand side ensure that you have the files you have changed checked off and at the bottom write out a commit message, then click `Commit to your-branch-name`
+back in GitHub Desktop, on the left hand side ensure that you have the files you have changed checked off and at the bottom write out a commit message, then click `Commit to your-branch-name`. You should then see an option to `publish this branch` or `Ctrl+P`.
 
 ### Step 7:
 
