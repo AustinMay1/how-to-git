@@ -107,4 +107,4 @@ Sit back, relax, and await for approval!
 
 ## Check-in!
 
-+ Austin M.
++ Austin May
