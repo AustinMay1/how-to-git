@@ -63,6 +63,48 @@ open a pull request! navigate to GitHub in your browser and head to your forked 
 
 Sit back, relax, and await for approval!
 
+## via GitHub Desktop
+
+### Step 1:
+
+fork this repository.
+
+`https://github.com/AustinMay1/how-to-git`
+
+### Step 2:
+
+clone the forked repo to your local machine. Make sure to set your `local path` to somewhere easily accessible such as `C:\user\Documents`.
+
+`file > clone repository`
+
+### Step 3:
+
+create a new branch to make changes on. name this new branch your initials plus todays date `AM-11022023`.
+
+`branch > new branch`
+
+### Step 4:
+
+open the repository in your code editor (assuming Visual Studio Code)
+
+`repository > open in visual studio code`
+
+### Step 5:
+
+make some changes! check in at the bottom of this document [here.](#check-in)
+
+### Step 6:
+
+back in GitHub Desktop, on the left hand side ensure that you have the files you have changed checked off and at the bottom write out a commit message, then click `Commit to your-branch-name`
+
+### Step 7:
+
+back on GitHub, navigate to your forked repo and you should now see an option for openening a pull request. 
+
+### Step 8:
+
+Sit back, relax, and await for approval!
+
 ## Check-in!
 
 + your name here
