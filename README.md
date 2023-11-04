@@ -108,3 +108,4 @@ Sit back, relax, and await for approval!
 ## Check-in!
 
 + Austin May
++ Christopher Turcotte
